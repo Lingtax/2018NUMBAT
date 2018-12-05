@@ -1,0 +1,31 @@
+[0m[0K]0;:/d/Repos/R/2018NUMBAT[?25l
+[0;32mkelon@DESKTOP-M7R2P61 [0;35m [0;33m/d/Repos/R/2018NUMBAT[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25h[?25lwarning: LF will be replaced by CRLF in libs/remark-css/default.css.[0K
+The file will have its original line endings in your working directory[0K[1A[?25h[?25l
+
+warning: LF will be replaced by CRLF in libs/remark-css/tamu.css.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25h[?25l
+[0;32mkelon@DESKTOP-M7R2P61 [0;35m [0;33m/d/Repos/R/2018NUMBAT[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit @[0K[?25h[?25l$ git commit[0K[14G[?25h[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m @[0K[?25h[?25l$ git commit -m[0K[17G[?25h[16G[17G[?25l$ git commit -m @[0K[?25h[?25l$ git commit -m[0K[17G[?25h[?25l$ git commit -m '[0K[?25hF[0K[?25l$ git commit -m '[0K[?25hA[0Kd[0Kd[0K[22G[?25l$ git commit -m 'Add e[0K[?25hn[0Kd[0K[26G[?25l$ git commit -m 'Add end s[0K[?25hl[0Ki[0Kd[0Ke[0K'[0K[?25l
+[0K[?25h[master 5791804] Add end slide[0K[?25l
+ 4 files changed, 26 insertions(+), 1 deletion(-)[0K
+ create mode 100644 .gitignore[0K
+ create mode 100644 2018NUMBAT.Rproj[0K
+[0K[?25h[?25l
+[0;32mkelon@DESKTOP-M7R2P61 [0;35m [0;33m/d/Repos/R/2018NUMBAT[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hit[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is ahead of 'origin/master' by 1 commit.[0K
+  (use "git push" to publish your local commits)[0K
+[0K
+nothing to commit, working tree clean[0K
+[0K[?25h[?25l
+[0;32mkelon@DESKTOP-M7R2P61 [0;35m [0;33m/d/Repos/R/2018NUMBAT[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hi[0Kt[0K[7G[6G[?25l$ ci[0K[?25h[?25l$ c[0K[5G[?25h[4G[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25hh[0Ke[0Kc[0Kk[0Ko[0Ku[0Kt[0K[16G[?25l$ git checkout g[0K[?25hh[0K-[0Kp[0Ka[0Kg[0Ke[0Ks[0K[?25l
+[0K[?25hSwitched to a new branch 'gh-pages'[0K[?25l
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.[0K
+[0K[?25h[?25l
+[0;32mkelon@DESKTOP-M7R2P61 [0;35m [0;33m/d/Repos/R/2018NUMBAT[0;36m (gh-pages)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h
